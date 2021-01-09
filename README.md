@@ -7,11 +7,11 @@
 - PHP
 - Création d'API
 - Gestion de bases de données (PhpMyAdmin, MySQL)
-- Wordpress (thème, plugin, customizer, hooks, widget...)
+- WordPress (thème, plugin, customizer, hooks, widget...)
 - Intégration web (HTML5, CSS)
 - Sass 7-1 Pattern
 - Bootstrap
-- Javascript
+- Javascript, jQuery
 - Versionning de projet (git, github)
 - Rédaction de documentation (MarkDown)
 - Mise en production (AWS)
